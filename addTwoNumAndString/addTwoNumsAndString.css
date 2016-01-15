@@ -1,0 +1,14 @@
+.center{
+	border: 3px #000 solid;
+	border-radius: 20px;
+	width: 600px;
+	height: 250px;
+	margin: 0 auto;
+}
+
+.center2{
+	width: 450px;
+	margin: 0 auto;
+	padding: 30px;
+
+}
